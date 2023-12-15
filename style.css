@@ -38,7 +38,7 @@ body, html {
 .thumbnails-container {
     display: flex;
     justify-content: space-between;
-    padding: 0 20px;
+    padding: 30% 20%;
     flex-wrap: wrap;
 }
 
@@ -50,7 +50,7 @@ body, html {
     cursor: pointer;
     flex-basis: calc(50% - 40px); /* 상자의 기본 크기를 설정하고 좌우 마진을 고려합니다 */
     margin: 10px;
-    height: 180px; /* 고정 높이 설정 */
+    height: center; /* 고정 높이 설정 */
     display: flex;
     justify-content: center;
     align-items: center;
